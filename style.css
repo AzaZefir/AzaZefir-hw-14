@@ -15,18 +15,14 @@ body {
 }
 
 main .mob-version div {
-    background-color: orange;
-    width: 360px;
-    height: 230px;
+    background-color: lime;
+    width: 350px;
+    height: 250px;
     font-size: 24px;
-    color: #fefcfc;
     text-align: center;
-    text-decoration: none;
-    box-shadow: 0 0 10px -2px rgb(175, 82, 82);
     margin-bottom: 15px;
     margin-right: 15px;
     margin-left: 15px;
-    flex-grow: 1;
 }
 
 main .block {
@@ -38,7 +34,7 @@ main .block {
 /* 2 */
 
 header{
-    background: #6e78b7;
+    background: #696d86;
     padding: 55px 0;
 }
 
